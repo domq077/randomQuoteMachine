@@ -59,7 +59,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="title">Rndom Quote Machine</h1>
+      <h1 className="title">Random Quote Machine</h1>
       <div className="quote">
         <p className="quote__text">&bdquo;{quote}&rdquo;</p>
         <p className="quote__author">~{author}</p>
